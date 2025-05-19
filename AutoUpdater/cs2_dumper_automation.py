@@ -13,7 +13,7 @@ import time
 OUTPUT_DIR = "A2X Generate Files"
 CS2_DUMPER_PATH = "cs2-dumper.exe"
 GITHUB_TOKEN = ""  # Token de acesso ao GitHub
-REPO_NAME = "GuilhermeBrightmore/Cs2-OffSets"  # Formato: "usuario/nome_do_repo"
+REPO_NAME = ""  # Formato: "usuario/nome_do_repo"
 JSON_FILE_PATH = "offsets.json"  # Arquivo a ser enviado ao GitHub
 COMMIT_MESSAGE = "Atualização automática de offsets via script Python"
 
