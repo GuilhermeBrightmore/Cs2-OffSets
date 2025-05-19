@@ -34,7 +34,7 @@ Este projeto automatiza o processo de geração, processamento e versionamento d
 1. Clone este repositório:
 ```bash
 git clone https://github.com/GuilhermeBrightmore/Cs2-OffSets.git
-cd seu-repositorio
+cd Cs2-OffSets
 ```
 
 2. Instale as dependências necessárias:
