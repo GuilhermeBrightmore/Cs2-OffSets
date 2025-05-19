@@ -33,7 +33,7 @@ Este projeto automatiza o processo de geração, processamento e versionamento d
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/GuilhermeBrightmore/Cs2-OffSets.git
 cd seu-repositorio
 ```
 
