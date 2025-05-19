@@ -50,7 +50,7 @@ Antes de executar o script, é necessário configurar algumas variáveis no cód
 
 ```python
 # Configurações
-OUTPUT_DIR = "D:\\Baimless\\Salamundengo\\A2X Generate Files"  # Diretório de saída
+OUTPUT_DIR = "A2X Generate Files"  # Diretório de saída
 CS2_DUMPER_PATH = "cs2-dumper.exe"                          # Caminho para o cs2-dumper.exe
 GITHUB_TOKEN = "seu_token_github_aqui"                      # Token de acesso ao GitHub
 REPO_NAME = "seu_usuario/seu_repositorio"                   # Formato: "usuario/nome_do_repo"
